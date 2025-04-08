@@ -1,5 +1,8 @@
 body {
     background-color: #FFDAB9;
+   background-image: url("img/bg.jpg"); /* Путь к вашему паттерну */
+    background-repeat: repeat; /* Повторение паттерна по всей площади */
+    background-attachment: fixed; /* Фиксирует фон при скролле */
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
